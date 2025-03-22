@@ -1,3 +1,11 @@
 rootProject.name = "ds-algo"
 include 'Hello World'
 include 'Relaxed Binary Search Tree'
+include 'Print Left View of Binary Tree'
+include 'Print Right View of Binary Tree'
+include 'Check Tree is Height Balance'
+include 'Check Trees are Identical'
+include 'Create Mirror Image or Symmetric Binary Tree'
+
+
+
