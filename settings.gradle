@@ -6,6 +6,17 @@ include 'Print Right View of Binary Tree'
 include 'Check Tree is Height Balance'
 include 'Check Trees are Identical'
 include 'Create Mirror Image or Symmetric Binary Tree'
-
+include 'Check Binary Tree is Relaxed Binary Search Tree'
+include 'Check if Number is Prime'
+include 'Check Tree is Height Balance'
+include 'Check Trees are Identical'
+include 'Connect Multiple Ropes With Minimum Cost'
+include 'Create Mirror Image or Symmetric Binary Tree'
+include 'Print Bottom View of Binary Tree'
+include 'Print Left View of Binary Tree'
+include 'Print Level Order Binary Tree'
+include 'Print Right View of Binary Tree'
+include 'Print Top View of Binary Tree'
+include 'Relaxed Binary Search Tree'
 
 

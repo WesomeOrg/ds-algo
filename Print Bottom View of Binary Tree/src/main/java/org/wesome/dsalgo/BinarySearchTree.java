@@ -55,7 +55,7 @@ public class BinarySearchTree {
             }
         }
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            System.out.print(entry.getValue() + " ");
+            System.out.print("[" + entry.getValue() + "]");
         }
     }
 
