@@ -1,10 +1,14 @@
 package org.wesome.dsalgo;
 
+import java.util.Objects;
 import java.util.PriorityQueue;
 
 
 public class MinCostRope {
     static int minCostRope(int[] arr) {
+        if (Objects.isNull(arr)) {
+            throw new NullPointerException("array is null");
+        }
         int size = arr.length;
         /*  Create a priority queue pq to store the rope lengths.   */
         PriorityQueue<Integer> pq = new PriorityQueue<>();
